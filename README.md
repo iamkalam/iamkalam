@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Kalam</h1>
-<h3 align="center">A passionate Data Engineer / Full stack Developer from pakistan</h3>
+<h3 align="center">A passionate Data Engineer / Full stack Developer</h3>
+<h3 align="center">Student of FAST-NU</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkalam&label=Profile%20views&color=0e75b6&style=flat" alt="iamkalam" /> </p>
 
