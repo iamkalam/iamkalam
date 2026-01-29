@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Kalam</h1>
-<h3 align="center">A passionate Data Engineer / Full stack Developer</h3>
+<h3 align="center">A passionate Data Engineer / BackEnd Engineer</h3>
 <h3 align="center">Student of FAST-NU</h3>
 
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamkalam" alt="iamkalam" /></a> </p>
 
-- 💬 Ask me about **react, Data Engineering**
+- 💬 Ask me about **Go-lang Data Engineering including Pyspark , DataBricks , kafka**
 
 - 📫 How to reach me **calamabdul17@gmail.com**
 
