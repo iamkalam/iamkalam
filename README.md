@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Engineer / BackEnd Engineer Student of FAST-NU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkalam&label=Profile%20views&color=0e75b6&style=flat" alt="iamkalam" /> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamkalam" alt="iamkalam" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
