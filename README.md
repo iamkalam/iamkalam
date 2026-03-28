@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm abdul kalam</h1>
-<h3 align="center">A passionate Data Engineer / BackEnd Engineer Student of FAST-NU</h3>
+<h3 align="center">AI/ML & Data Engineer Student of FAST-NU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkalam&label=Profile%20views&color=0e75b6&style=flat" alt="iamkalam" /> </p>
 
